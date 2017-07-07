@@ -2,4 +2,5 @@
 这是版本二添加的代码！
 this  code is version 1;
 git is a  version control system;
+test for git diff and git status;
 
